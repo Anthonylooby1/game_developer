@@ -23,7 +23,7 @@ class Magic : Enemy
         {
             Console.WriteLine("You are too close!");
         } else {
-            Console.WriteLine($"{Name} did {ChosenAttack.Name} for {ChosenAttack.DamageAmount} on {Target.Name}");
+            Console.WriteLine($"{Name} did {ChosenAttack.Name} for {ChosenAttack.DamageAmount} hp on {Target.Name}");
         }
     }
 
