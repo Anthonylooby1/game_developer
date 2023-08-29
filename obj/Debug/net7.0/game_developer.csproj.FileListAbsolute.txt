@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\bin\Debug\net7.0\game_developer.exe
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\bin\Debug\net7.0\game_developer.deps.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\bin\Debug\net7.0\game_developer.runtimeconfig.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\bin\Debug\net7.0\game_developer.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\bin\Debug\net7.0\game_developer.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\refint\game_developer.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\game_developer.genruntimeconfig.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\game_developer\obj\Debug\net7.0\ref\game_developer.dll
